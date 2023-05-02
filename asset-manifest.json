@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/KISHORExlr8/React-website/static/css/main.d47d5370.css",
-    "main.js": "/KISHORExlr8/React-website/static/js/main.baf164db.js",
-    "static/js/787.633816a4.chunk.js": "/KISHORExlr8/React-website/static/js/787.633816a4.chunk.js",
-    "static/media/helvetica-neu.ttf": "/KISHORExlr8/React-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo_sub.png": "/KISHORExlr8/React-website/static/media/logo_sub.19f3ab25ab15fd848b30.png",
-    "static/media/LaBelleAurore.woff2": "/KISHORExlr8/React-website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-s.png": "/KISHORExlr8/React-website/static/media/logo-s.bfc9f81846bda5218dab.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/KISHORExlr8/React-website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/KISHORExlr8/React-website/index.html",
-    "main.d47d5370.css.map": "/KISHORExlr8/React-website/static/css/main.d47d5370.css.map",
-    "main.baf164db.js.map": "/KISHORExlr8/React-website/static/js/main.baf164db.js.map",
-    "787.633816a4.chunk.js.map": "/KISHORExlr8/React-website/static/js/787.633816a4.chunk.js.map"
+    "main.css": "/KISHORExlr8/React-Project/static/css/main.204d1389.css",
+    "main.js": "/KISHORExlr8/React-Project/static/js/main.322eb24d.js",
+    "static/js/787.633816a4.chunk.js": "/KISHORExlr8/React-Project/static/js/787.633816a4.chunk.js",
+    "static/media/helvetica-neu.ttf": "/KISHORExlr8/React-Project/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/KISHORExlr8/React-Project/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/KISHORExlr8/React-Project/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/KISHORExlr8/React-Project/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/KISHORExlr8/React-Project/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/KISHORExlr8/React-Project/index.html",
+    "main.204d1389.css.map": "/KISHORExlr8/React-Project/static/css/main.204d1389.css.map",
+    "main.322eb24d.js.map": "/KISHORExlr8/React-Project/static/js/main.322eb24d.js.map",
+    "787.633816a4.chunk.js.map": "/KISHORExlr8/React-Project/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d47d5370.css",
-    "static/js/main.baf164db.js"
+    "static/css/main.204d1389.css",
+    "static/js/main.322eb24d.js"
   ]
 }

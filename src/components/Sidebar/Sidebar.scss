@@ -7,22 +7,7 @@
     z-index: 3;
     min-height: 500px;
     
-    .logo {
-    display: block;
-    padding: 8px 0;
-    
-
-    img{
-        display:block;
-        margin: 8px auto;
-        width: 24px;
-        height: auto;
-
-        &.sub-logo {
-            width: 50px;
-        }
-    }
- }
+  
  nav{
     display: block;
     text-align: center;
@@ -48,9 +33,7 @@
         &:hover{
             color:#ffd700 ;
 
-            svg{
-                opacity: 0;
-            }
+            
 
             &:after{
                 opacity: 1;
@@ -90,11 +73,7 @@
         }
     }
 
-    a.active{
-        svg{
-            color: #ffd700;
-        }
-    }
+    
  }
  ul{
     position: absolute;
@@ -113,9 +92,7 @@
             font-size: 15px;
             line-height: 16px;
 
-            &:hover svg{
-                color: #ffd700;
-            }
+            
             
         }
     }
